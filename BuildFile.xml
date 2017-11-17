@@ -1,0 +1,14 @@
+<use   name="clhep"/>
+<use   name="boost"/>
+<use   name="root"/>
+<use   name="FWCore/Utilities"/>
+<use   name="FWCore/Framework"/>
+<use   name="FWCore/PluginManager"/>
+<use   name="FWCore/ParameterSet"/>
+<use   name="FWCore/Services"/>
+<use   name="FWCore/ServiceRegistry"/>
+<use   name="FWCore/MessageLogger"/>
+<use   name="Calibration/IsolatedParticles"/>
+<use   name="HLTrigger/HLTcore"/>
+
+<flags EDM_PLUGIN="1"/>
